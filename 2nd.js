@@ -1,0 +1,1 @@
+let secondVariable = "Second";
